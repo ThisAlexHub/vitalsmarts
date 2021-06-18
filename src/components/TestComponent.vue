@@ -12,7 +12,7 @@
     </p>
     <h3 class="uk-card-title">
       These are the plugins installed. Use the link at the top to view the QA
-      Test Form
+      Test Form.
     </h3>
     <ul>
       <li>
@@ -61,6 +61,11 @@
           target="_blank"
           rel="noopener"
           >typescript</a
+        >
+      </li>
+      <li>
+        <a href="https://github.com/yarnpkg/yarn" target="_blank" rel="noopener"
+          >yarn</a
         >
       </li>
     </ul>
