@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "pug", "typescript", "json"],
+  "editor.tabSize": 2,
+  "liveServer.settings.port": 5501
+}
