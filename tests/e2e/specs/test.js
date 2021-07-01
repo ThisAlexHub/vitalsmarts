@@ -6,7 +6,7 @@ const homePage = new HomePage();
 const testPage = new TestPage();
 
 beforeEach(() => {
-  cy.visit("http://localhost:8087/");
+  cy.visit("http://localhost:8080/");
 
   homePage.getTestButton().click();
 

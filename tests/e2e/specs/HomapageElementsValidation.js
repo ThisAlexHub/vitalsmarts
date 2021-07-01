@@ -5,7 +5,7 @@ const homePage = new HomePage();
 describe('Homapage elements validation', function () {
 
   it('User should not be able to sign in without course selection', function () {
-    cy.visit("http://localhost:8087/");
+    cy.visit("http://localhost:8080/");
 
     homePage.getWelcomeLabel().should('have.text', "Welcome to the VitalSmarts QA Test");
 
